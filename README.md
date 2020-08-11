@@ -1,2 +1,2 @@
 # backend-technologies
-Result of a series of backend research technology
+Result of a series of research for suitable backend technologies
